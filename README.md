@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nikhil Malhotra | 💻 Software Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nikhil Malhotra | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -28,7 +28,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 20 years old Software Developer from India.</h3>
+  <h3> I'm 20 years old Full Stack Developer from India.</h3>
 </p>
 
  - 🥀 Learning  Android<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>Kotlin <code></code>
