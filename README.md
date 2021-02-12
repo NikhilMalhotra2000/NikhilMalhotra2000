@@ -33,7 +33,7 @@
 
  - 🥀 Learning  Android<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>Kotlin <code></code>
    
- - 🔭 Chess FanBoi, Tal.😼
+ - 🔭 Chess FanBoi, Fischer.😼
  -  Full Stack Developer
 
  - 🛸 Into Table Tennis, professional player since 8 years.
@@ -57,7 +57,8 @@
 
 
 <br />
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMalhotra2000)](https://github.com/NikhilMalhotra2000/readme.md)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMalhotra2000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### - Languages and Tools...
 
