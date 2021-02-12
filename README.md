@@ -57,6 +57,7 @@
 
 
 <br />
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMalhotra2000)](https://github.com/NikhilMalhotra2000/github-readme-stats)
 
 ### - Languages and Tools...
 
