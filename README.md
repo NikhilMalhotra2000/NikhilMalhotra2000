@@ -58,7 +58,7 @@
 
 <br />
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilMalhotra2000&show_icons=true&theme=radical)
+
 
 ### - Languages and Tools...
 
